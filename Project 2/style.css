@@ -1,0 +1,37 @@
+
+
+    
+   
+    body{ background-color:  #f8d8e3;}
+.bg-custom-class {
+    background-color:  #f8d8e3;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 20px;
+    right: 200px;
+    width: 500px;
+    height: 220px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    top: 140px;
+    left: 200px;
+    width: 500px;
+    height: 220px;
+
+}
+
+
+
+.pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 60%;
+}
+
+h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+h2{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
